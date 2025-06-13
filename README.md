@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction Mobile App with LSTM
+# 📈 Stock Price Prediction Mobile App
 
 ## 🧠 Project Overview
 
@@ -28,6 +28,26 @@ The prediction results are served through a responsive **Kotlin-based Android ap
 - 🔄 **Real-Time Updates**: Integrated with `yfinance` API for live data.
 - 📬 **Push Notifications**: Notify users of major stock events and alerts.
 - 💾 **SQL Database**: Manages users, predictions, and watchlists.
+
+---
+
+## 📽️ Demo Vedio
+https://github.com/user-attachments/assets/f5a30034-61a3-4969-a142-5f744f34e7e4
+---
+## ScreenShort
+### 🔐 Signup & Login
+![Signup page](https://github.com/user-attachments/assets/787712fe-8de5-48a5-a6e1-8daad35f1332)
+![Sign in page](https://github.com/user-attachments/assets/802e50fb-572c-4171-acc9-e67efc37e518)
+
+### 🏠 Home & Dashboard
+![Home Page](https://github.com/user-attachments/assets/88cc1a52-d0b7-4d16-985e-690d9166eee5)
+![Dashboard](https://github.com/user-attachments/assets/0c9086f0-1b57-4d04-9020-e418cd5ad4d5)
+
+### 📰 News 
+![News Page](https://github.com/user-attachments/assets/cff0789a-7c28-4cdf-a1ec-f67d1dea0811)
+
+### 📈 TCS Stock Price 
+![TCS price](https://github.com/user-attachments/assets/68b34e93-72d8-40c9-9293-ed0c26481ab9)
 
 ---
 
