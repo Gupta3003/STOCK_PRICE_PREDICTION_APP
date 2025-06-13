@@ -36,8 +36,8 @@ https://github.com/user-attachments/assets/f5a30034-61a3-4969-a142-5f744f34e7e4
 ---
 ## ScreenShort
 ### 🔐 Signup & Login
-![Signup page](https://github.com/user-attachments/assets/38c42cff-0c5f-4090-b01c-170807fae192)
-![Sign in page](https://github.com/user-attachments/assets/fb1feb19-ac1b-4f0b-ab83-22b68ba1167f)
+![Signup page](https://github.com/user-attachments/assets/891aceb9-538b-46ac-9d12-d130c41a8924)
+![Sign in page](https://github.com/user-attachments/assets/60c24760-55b3-41cf-a88f-8eb2bffafd6e)
 
 ### 🏠 Home & Dashboard
 ![Home Page](https://github.com/user-attachments/assets/88cc1a52-d0b7-4d16-985e-690d9166eee5)
