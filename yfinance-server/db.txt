@@ -1,0 +1,15 @@
+CREATE DATABASE stock_db;
+
+CREATE TABLE users(
+    email VARCHAR(50) PRIMARY KEY,
+    username VARCHAR(10) NOT NULL,
+    jwt_token VARCHAR(500)
+);
+
+CREATE TABLE watchlist(
+    ticker VARCHAR(20),
+    name VARCHAR(100),
+    email VARCHAR(50),
+    PRIMARY KEY (ticker),
+    CONSTRAINT FK_User FOREIGN KEY (email) REFERENCES users(email)
+);

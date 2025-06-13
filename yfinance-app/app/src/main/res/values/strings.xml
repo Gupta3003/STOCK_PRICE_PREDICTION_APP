@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BullSage</string>
+    <string name="back">Go back</string>
+    <string name="sign_in_title">Sign in to your account</string>
+    <string name="no_account">"Don't have an account? "</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="continue_text">CONTINUE</string>
+    <string name="create_account">Create Account</string>
+    <string name="market_movers">Market Movers</string>
+    <string name="your_watchlist">Your Watchlist</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="search_bar_horizontal_padding">Search bar horizontal padding</string>
+    <string name="search_bar_vertical_padding">Ssearch bar vertical padding</string>
+    <string name="clear_search">Clear search</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="empty_watchlist_text">Items added to watchlist will appear here</string>
+</resources>
