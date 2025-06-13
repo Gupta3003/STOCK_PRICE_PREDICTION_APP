@@ -32,22 +32,23 @@ The prediction results are served through a responsive **Kotlin-based Android ap
 ---
 
 ## 📽️ Demo Vedio
-https://github.com/user-attachments/assets/f5a30034-61a3-4969-a142-5f744f34e7e4
+[https://github.com/user-attachments/assets/f5a30034-61a3-4969-a142-5f744f34e7e4](https://github.com/user-attachments/assets/1ef302f6-bbd9-41b4-bd72-b6fa29a4e795)
 ---
 ## ScreenShort
 ### 🔐 Signup & Login
-![Signup page](https://github.com/user-attachments/assets/891aceb9-538b-46ac-9d12-d130c41a8924)
-![Sign in page](https://github.com/user-attachments/assets/60c24760-55b3-41cf-a88f-8eb2bffafd6e)
+|Signin/Login Page                                                                               |Signup Page                                                                                    |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|![Sign in page](https://github.com/user-attachments/assets/14627f5b-ee2d-4099-9176-a5d1535af734)|![Signup page](https://github.com/user-attachments/assets/19c26e9f-e75f-4fba-b944-86351909cd14)|
 
 ### 🏠 Home & Dashboard
-![Home Page](https://github.com/user-attachments/assets/88cc1a52-d0b7-4d16-985e-690d9166eee5)
-![Dashboard](https://github.com/user-attachments/assets/0c9086f0-1b57-4d04-9020-e418cd5ad4d5)
+|Home Page                                                                                    |Dashboard Page                                                                               |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|![Home Page](https://github.com/user-attachments/assets/5929d0a7-14a4-4ed5-98de-a35f37c7764c)|![Dashboard](https://github.com/user-attachments/assets/195e3192-863c-4c90-83a6-3d34fdc18bc5)|
 
-### 📰 News 
-![News Page](https://github.com/user-attachments/assets/cff0789a-7c28-4cdf-a1ec-f67d1dea0811)
-
-### 📈 TCS Stock Price 
-![TCS price](https://github.com/user-attachments/assets/68b34e93-72d8-40c9-9293-ed0c26481ab9)
+### 📰 News & 📈 TCS Stock Price 
+|News Page                                                                                    |TCS Stock Price Page                                                                         |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|![News Page](https://github.com/user-attachments/assets/66514520-8bb9-4fb4-924f-d97a31f11ed4)|![TCS price](https://github.com/user-attachments/assets/b11d66fe-df93-4084-8494-ba0576201f10)|
 
 ---
 
