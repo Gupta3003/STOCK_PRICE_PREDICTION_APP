@@ -32,7 +32,7 @@ The prediction results are served through a responsive **Kotlin-based Android ap
 ---
 
 ## 📽️ Demo Vedio
-[https://github.com/user-attachments/assets/f5a30034-61a3-4969-a142-5f744f34e7e4](https://github.com/user-attachments/assets/1ef302f6-bbd9-41b4-bd72-b6fa29a4e795)
+(https://github.com/user-attachments/assets/1ef302f6-bbd9-41b4-bd72-b6fa29a4e795)
 ---
 ## ScreenShort
 ### 🔐 Signup & Login
