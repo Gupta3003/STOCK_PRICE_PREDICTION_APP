@@ -32,7 +32,7 @@ The prediction results are served through a responsive **Kotlin-based Android ap
 ---
 
 ## 📽️ Demo Vedio
-https://github.com/user-attachments/assets/853d26d4-181d-4a48-9649-d37c46a9378a
+[https://github.com/user-attachments/assets/853d26d4-181d-4a48-9649-d37c46a9378a](https://github.com/Gupta3003/STOCK_PRICE_PREDICTION_APP/issues/2#issue-3148454606)
 ---
 ## ScreenShort
 ### 🔐 Signup & Login
